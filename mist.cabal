@@ -17,6 +17,7 @@ Library
                        Language.Mist.Parser,
                        Language.Mist.Checker,
                        Language.Mist.CGen,
+                       Language.Mist.ToFixpoint,
                        Language.Mist.Normalizer,
                        Language.Mist.Runner,
                        Language.Mist.Test
